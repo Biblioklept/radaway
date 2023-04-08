@@ -14,14 +14,14 @@ __Plans:__
 - Provide support for all major total conversions, but these are the most relevant as of __08/04/2023__.
 - Provide tools with the installer.
 
-Useless information for the common user:
-
-```{toggle}
-Fixed bugs/issues:
+<details>
+<summary>Useless information for the common user:</summary>
+<br>
+__Fixed bugs/issues:__
 - Modlist goes out of order if not using TTW list, and puts `TTW 3.3.2` and `TTW Quickstart Item Remover - INI` at the bottom in the development section.
 
 Response: Adding an empty "textures" folder to both.
 - 10mm Pistol(s) has broken sights.
 
 Response: Removing `Vanilla Iron Sights Realligned` and solely relying on `Weapon Mesh Improvement Mod`.
-```
+</details>

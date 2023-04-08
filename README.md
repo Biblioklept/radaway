@@ -26,5 +26,5 @@ Response: Adding an empty "textures" folder to both.
 
 - 10mm Pistol(s) has broken sights.
 
-Response: Removing `Vanilla Iron Sights Realligned` and solely relying on `Weapon Mesh Improvement Mod`.
+Response: Removing `Vanilla Iron Sights Realligned` and solely relying on `Weapon Mesh Improvement Mod`. Redux version of Vanilla Iron Sights Realligned coming soon.
 </details>

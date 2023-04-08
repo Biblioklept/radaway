@@ -7,7 +7,10 @@ Provides support for:
 - Fallout: Tale of Two Wastelands
 
 __Current bugs/issues:__
-Modlist goes out of order if not using TTW list, and puts `TTW 3.3.2` and `TTW Quickstart Item Remover - INI` at the bottom in the development section.
+- Modlist goes out of order if not using TTW list, and puts `TTW 3.3.2` and `TTW Quickstart Item Remover - INI` at the bottom in the development section.
+Current Response: Adding an empty "textures" folder to both.
+- 10mm Pistol(s) has broken sights.
+Current Response: Removing `Vanilla Iron Sights Realligned` and Solely relying on `Weapon Mesh Improvement Mod`.
 
 __Plans:__
 - Provide support for all major total conversions, but these are the most relevant as of __08/04/2023__.
